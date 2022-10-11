@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loose_Coupling", "Loose_Coupling\Loose_Coupling.csproj", "{AAD48A32-274B-46D2-A29B-F85C174A078F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Single_Responsibility_Principle", "Single_Responsibility_Principle\Single_Responsibility_Principle.csproj", "{9729EB7E-9C70-46A6-8873-C64F50A34238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAD48A32-274B-46D2-A29B-F85C174A078F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAD48A32-274B-46D2-A29B-F85C174A078F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAD48A32-274B-46D2-A29B-F85C174A078F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAD48A32-274B-46D2-A29B-F85C174A078F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9729EB7E-9C70-46A6-8873-C64F50A34238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9729EB7E-9C70-46A6-8873-C64F50A34238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9729EB7E-9C70-46A6-8873-C64F50A34238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9729EB7E-9C70-46A6-8873-C64F50A34238}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91F2CF84-F506-4911-9E2D-0F82B43046DA}
+	EndGlobalSection
+EndGlobal
