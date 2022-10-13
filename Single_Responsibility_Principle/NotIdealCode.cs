@@ -1,4 +1,6 @@
-﻿namespace Single_Responsibility_Principle_NotIdealCode;
+﻿using Single_Responsibility_Principle;
+
+namespace Single_Responsibility_Principle_NotIdealCode;
 
 class Database
 {

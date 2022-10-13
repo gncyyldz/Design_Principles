@@ -1,4 +1,6 @@
-﻿namespace Single_Responsibility_Principle_IdealCode;
+﻿using Single_Responsibility_Principle;
+
+namespace Single_Responsibility_Principle_IdealCode;
 class Database
 {
     public void Connect()
